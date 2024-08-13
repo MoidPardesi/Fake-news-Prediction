@@ -1,4 +1,4 @@
-**Fake News Detection **
+****Fake News Detection ****
 
 **Overview**
 This repository showcases the machine learning models and framework developed focused on detecting fake and real news using AI. The final models are implemented in Python and hosted on a web app to make the research accessible for public use.
